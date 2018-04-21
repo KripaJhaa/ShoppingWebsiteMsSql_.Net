@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MyShoppingApp.ViewModels.MyOrdersViewModel>
+@using MyShoppingApp.Models;
+@using MyShoppingApp.ViewModels;
+
+@{
+    ViewBag.Title = "Past Orders";
+}
+
+<h2>My Orders:</h2>
+
+<table class="table">
+    <tr>
+        <th> Products</th>
+        <th> Address </th>
+        <th> TotalAmount </th>
+    </tr>
+
+    @{
+        foreach (var order in Model)
+        {
+            <tr>
+
+            <tr>
+
+                <td>
+
+                    <table class="table">
+                        <tr>
+                            <th> Name</th>
+                            <th> Description </th>
+                            <th> Category </th>
+                            <th> Color </th>
+                            <th> Size </th>
+                            <th> Quantity </th>
+                        </tr>
+
+                        @foreach (var item in  order.Variants)
+                        {
+                            
+                            <tr>
+                                <td> @Html.ActionLink(@item.Name,"Details","Product", new { id = @item.ProductId},null)</td>
+                                <td> @item.Description </td>
+                                <td> @item.Category </td>
+                                <td> @item.Color </td>
+                                <td> @item.Size </td>
+                                <td> @item.Quantity </td>
+                            </tr>
+                        }
+                    </table>
+
+                </td>
+                <td> @order.Address </td>
+                <td> @order.TotalAmount </td>
+
+            </tr>
+            <br>
+        </tr>
+        }
+
+
+
+    }
+
+    </table>

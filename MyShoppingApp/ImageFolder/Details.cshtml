@@ -1,0 +1,97 @@
+﻿@model List<MyShoppingApp.ViewModels.VariantViewModel>
+
+@{
+    ViewBag.Title = "ProductPage";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Category
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Image
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+            <td>
+                <img src="@Url.Content(item.Image)" style="height:200px;width:200px;" />
+            </td>
+        </tr>
+        break;
+    }
+
+</table>
+
+<table class="table">
+
+    <tr>
+        <th>
+            Size
+        </th>
+        <th>
+            Color
+        </th>
+        <th>
+            Selection
+        </th>
+    </tr>
+
+
+    @using (Html.BeginForm())
+    {
+
+        for (var i = 0; i < Model.Count(); i++)
+        {
+            <tr>
+                @Html.HiddenFor(it => it[i].Id)
+                @Html.HiddenFor(it => it[i].ProductId)
+                @Html.HiddenFor(it => it[i].Name)
+                @Html.HiddenFor(it => it[i].Category)
+                @Html.HiddenFor(it => it[i].Image)
+                @Html.HiddenFor(it => it[i].Description)
+                @Html.HiddenFor(it => it[i].AvailableQty)
+                @Html.HiddenFor(it => it[i].Color)
+                @Html.HiddenFor(it => it[i].Size)
+                @Html.HiddenFor(it => it[i].Price)
+
+                <td>
+                    @Html.DisplayFor(it => it[i].Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(it => it[i].Color)
+                </td>
+
+                <td>
+                    @Html.CheckBoxFor(it => it[i].Checked, new { Style = "vertical-            align:3px}" })
+                </td>
+            </tr>
+        }
+
+
+        <input id="Submit1" type="submit" value="Add to Cart" />
+    }
+
+</table>
+
+

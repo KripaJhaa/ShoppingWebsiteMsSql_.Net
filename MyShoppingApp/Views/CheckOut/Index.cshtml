@@ -1,0 +1,71 @@
+﻿@using MyShoppingApp.Models
+@using MyShoppingApp.ViewModels
+@model List<MyShoppingApp.ViewModels.VariantViewModel>
+
+@{
+    ViewBag.Title = "Your order Details:-";
+}
+
+<h2>Your Cart:-</h2>
+
+<table class="table">
+    <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Category</th>
+        <th>Size</th>
+        <th>Color</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Total Price</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        
+
+        <tr>
+            <td>
+                <img src="@Url.Content(item.Image)" style="height:200px;width:200px;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Count)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+        </tr>
+        }
+    }
+
+</table>
+
+
+
+@using (Html.BeginForm("Message", "CheckOut", FormMethod.Get))
+{
+    <p>
+        <b>Enter Address here: </b>@Html.TextBox("Address")
+        <br>
+        <input type="submit" id="Address" value="Place Order" />
+    </p>
+}

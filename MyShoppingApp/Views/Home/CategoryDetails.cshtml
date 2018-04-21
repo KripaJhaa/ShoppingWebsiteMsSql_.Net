@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MyShoppingApp.Models.Product>
+
+@{
+    ViewBag.Title = "CategoryDetails";
+}
+
+<h2>Search By Category:</h2>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(item.Category, "CategoryProducts", "Product", new { SearchedCategory = item.Category }, null)
+            </td>
+        </tr>
+    }
+
+</table>

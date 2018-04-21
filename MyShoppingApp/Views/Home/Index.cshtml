@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MyShoppingApp.Models.Product>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <div class="list-group-item">
+            <div style="font-size:120%;background-color:aqua;text-align:center;">
+                @Html.ActionLink(item.Name, "Details", "Product", new { id = item.ProductId }, null)
+            </div>
+            <div style="margin-left:40%;" class="alert-link">
+                <img src="@Url.Content(item.Image)" style="height:200px;width:200px;" />
+            </div>
+
+           
+                <div><h4>Discription</h4>  <span style="color:brown;">@Html.DisplayFor(model => item.Description)</span></div>
+               
+                    
+        </div>
+    }
+</div>
+
+
+

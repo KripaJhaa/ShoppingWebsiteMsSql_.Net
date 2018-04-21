@@ -1,0 +1,488 @@
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CoreCompileInputs.cache
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\ApplicationInsights.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.pdb
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.rsp
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.rsp
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.AppContext.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Console.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Compression.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Pipes.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.AccessControl.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Claims.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Threading.Thread.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.ValueTuple.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.rsp
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\EntityFramework.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\WebGrease.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\EntityFramework.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.pdb
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.xml
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CopyComplete
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.dll
+c:\users\atulgoel\documents\visual studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.pdb
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\ApplicationInsights.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.pdb
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.rsp
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.rsp
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.AppContext.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Console.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.rsp
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\EntityFramework.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\WebGrease.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\EntityFramework.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.pdb
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.xml
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csprojResolveAssemblyReference.cache
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.FirstMigrations.resources
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.LatestMigration.resources
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.GenerateResource.cache
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CopyComplete
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.dll
+C:\Users\atulgoel\Pictures\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.pdb
+C:\Users\atulgoel\Documents\Visual Studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration.resources
+C:\Users\atulgoel\Documents\Visual Studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.GenerateResource.cache
+C:\Users\atulgoel\Documents\Visual Studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration1.resources
+C:\Users\atulgoel\Documents\Visual Studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csprojResolveAssemblyReference.cache
+C:\Users\atulgoel\Documents\Visual Studio 2017\Projects\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration2.resources
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\ApplicationInsights.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.pdb
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.rsp
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.rsp
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.AppContext.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Console.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.rsp
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\WebGrease.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.pdb
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.xml
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csprojResolveAssemblyReference.cache
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration.resources
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration1.resources
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration2.resources
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.GenerateResource.cache
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.CopyComplete
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.dll
+C:\Users\atulgoel\Desktop\New folder\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.pdb
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\ApplicationInsights.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.pdb
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.rsp
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.rsp
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.AppContext.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Console.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.rsp
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\WebGrease.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.pdb
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.xml
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csprojResolveAssemblyReference.cache
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration.resources
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration1.resources
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.InitialMigration2.resources
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.GenerateResource.Cache
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.dll
+C:\Users\kripajha\Desktop\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.pdb
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\ApplicationInsights.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\MyShoppingApp.pdb
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.exe.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csc.rsp
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.exe.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\csi.rsp
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.AppContext.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Console.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.exe.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\vbc.rsp
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\WebGrease.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Helpers.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Mvc.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Optimization.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.Razor.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Antlr3.Runtime.pdb
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Newtonsoft.Json.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\bin\Microsoft.AI.Web.xml
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.dll
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.pdb
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.Migrations.mymigration.resources
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csproj.GenerateResource.Cache
+C:\Users\kripajha\Desktop\ShoppigngClone\MyShoppingApp\MyShoppingApp\MyShoppingApp\obj\Debug\MyShoppingApp.csprojResolveAssemblyReference.cache

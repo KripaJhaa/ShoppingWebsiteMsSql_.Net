@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MyShoppingApp.Models.Product>
+
+@{
+    ViewBag.Title = "Search Results";
+}
+
+<h2>Search Results:</h2>
+
+<div class="container">
+
+    <div id="products" class="row list-group">
+
+        @foreach (var item in Model)
+        {
+
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img src="@Url.Content(item.Image)" style="height:200px;width:200px;" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                            @item.Name
+                        </h4>
+                        <p class="group inner list-group-item-text">
+                            @item.Description
+                        </p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead">
+                                </p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                @Html.ActionLink("View Detail", "Details", "Product", new { id = item.ProductId }, null)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+</div>

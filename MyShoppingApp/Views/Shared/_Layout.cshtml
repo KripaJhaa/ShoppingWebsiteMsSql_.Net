@@ -1,0 +1,146 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <script src="~/Scripts/Myjs.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Shoppify", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Shop By Category", "CategoryDetails", "Home")</li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>@Html.ActionLink("My Cart", "ShowCart", "Cart")</li>
+                    <li>@Html.ActionLink("My Orders", "ShowOrders", "Account")</li>
+
+
+                    @if (Session["EmailId"] == null)
+                    {
+                        <li>@Html.ActionLink("Login", "Login", "Account")</li>
+                        <li>@Html.ActionLink("Register", "Register", "Account")</li>
+
+                    }
+                    else
+                    {
+
+                        <li>@Html.ActionLink("Log Out ", "LogOut", "Home")</li>
+                    }
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+   
+  
+
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-default">
+                    <div class="nav nav-justified navbar-nav">
+                        <form class="navbar-form navbar-search" role="search">
+                            <div class="input-group">
+
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-search btn-default dropdown-toggle" data-toggle="dropdown">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                        <span class="label-icon">All Product</span>
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu pull-left" role="menu">
+                                        <li>
+                                            <a href="#" onclick="@("window.location.href='" + @Url.Action("Index", "Home",new { SearchedString="mobile"}) + "'");">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Mobile</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" onclick="@("window.location.href='" + @Url.Action("Index", "Home",new { SearchedString="cloth"}) + "'");">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Clothing</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" onclick="@("window.location.href='" + @Url.Action("Index", "Home",new { SearchedString="laptop"}) + "'");">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Laptops</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" onclick="@("window.location.href='" + @Url.Action("Index", "Home",new { SearchedString="footwear"}) + "'");">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Foot-Wear</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" onclick="@("window.location.href='" + @Url.Action("Index", "Home",new { SearchedString="grossries"}) + "'");">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Grossries</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" onclick="myClick('electronics')">
+                                                <span class="glyphicon glyphicon-ok-circle"></span>
+                                                <span class="label-icon">Electronics</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <input type="text" class="form-control" id="searchString">
+
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-search  glyphicon glyphicon glyphicon-search" onclick="myClick(document.getElementById('searchString').value)"></button>
+                                </div>
+                            </div>
+                        </form>
+
+
+                    </div>
+
+                </nav>
+            </div>
+        </div>
+
+    
+    <br>
+
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My Shopping Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+<script>
+    function searchProduct() {
+        var productText = $("#productSearch").val();
+        
+    }
+</script>
