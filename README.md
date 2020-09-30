@@ -1,6 +1,6 @@
 # Full Shopping Website [.Net] with MSSqlDB integration
 
-Products were added using Seed Method 
+Products are added using Seed Method 
 
 ## Feature
 
